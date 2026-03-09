@@ -52,5 +52,5 @@ If you use this work, please cite:
 ```
 Katel, M. and Sherry, S. "Detecting Artistic Influence Using Computer Vision:
 A Computational Analysis of African Mask Aesthetics in Pablo Picasso's Paintings."
-University of Southern Mississippi, 2026.
+The University of Southern Mississippi, 2026.
 ```
